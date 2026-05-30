@@ -1,0 +1,26 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "description": [
+      {"text": "Перевод ", "color": "gray"},
+      {"text": "C", "color": "#E57347"},
+      {"text": "r", "color": "#DD7C4F"},
+      {"text": "e", "color": "#D58457"},
+      {"text": "a", "color": "#CD8D5F"},
+      {"text": "t", "color": "#C59567"},
+      {"text": "e", "color": "#BD9E6F"},
+      {"text": " "},
+      {"text": "T", "color": "#AFA37D"},
+      {"text": "F", "color": "#A1A987"},
+      {"text": "M", "color": "#94AE91"},
+      {"text": "G", "color": "#86B49B"},
+      {"text": " на ", "color": "gray"},
+      {"text": "рус", "color": "white"},
+      {"text": "ск", "color": "blue"},
+      {"text": "ий", "color": "red"},
+      {"text": " by ", "color": "gray"},
+      {"text": "mishtok", "color": "white", "bold": false},
+      {"text": " v1.0.0", "color": "gray"}
+    ]
+  }
+}
